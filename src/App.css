@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.accordionBack{
+  background-color: white !important;
+  border:none !important;
+}
+.cardBack{
+  border:none
+}
+.labelColor{
+  color:#0365ab;
+}
+.hotelName{
+font-size:22;
+font-weight:600;
+ color:"#f24413"
+}
+.bar-inner-right{
+  background-color: #f24413;
+}
+.bar-inner-left{
+  background-color: #f24413;
+}
+.multi-range-slider{
+  border: none;
+  box-shadow: none;
+}
