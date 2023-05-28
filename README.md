@@ -27,10 +27,9 @@ This is a hotel booking app, in which user can search for their required hotel a
 
 Explain how to install and set up your application. Provide step-by-step instructions to ensure that other developers can easily get your project up and running. Include any prerequisites or dependencies that need to be installed beforehand. For example:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
-2. Navigate to the project folder: `cd project-folder   `
+1. Clone the repository: `git clone https://github.com/RakeshP059/tecblicDemo.git`
+2. Navigate to the project folder: `cd tecblic   `
 3. Install dependencies: `npm install`
-4. ...
 
 ## Usage
 
@@ -64,3 +63,8 @@ Explain how other developers can contribute to your project. Include guidelines 
 Specify the license under which your project is distributed. For example:
 
 This project is licensed under the [MIT License](LICENSE).
+ ## Time spend
+ - Total time spent: 7 hrs.
+ - Start time : 11 am.
+ - End time : 8 pm.
+ - Break taken : 2 hrs.
